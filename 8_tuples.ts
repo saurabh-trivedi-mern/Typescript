@@ -21,3 +21,6 @@ const newUser: User = [112, "example@gmail.com"]
 
 
 let rgb: [number, number, number] = [255, 123, 112]
+
+
+export{}
