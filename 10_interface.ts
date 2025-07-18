@@ -1,3 +1,8 @@
+//! Interfaces can be combined
+//! Interfaces can be inherited
+//! Interfaces look like objects
+
+
 interface User {
     readonly dbId: number,
     email: string,
